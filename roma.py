@@ -13,3 +13,4 @@ def inverso(lista, n=0):
 
 lst= ["rata"]
 print(inverso(lst))
+#hola otra vez
