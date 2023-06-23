@@ -1,0 +1,13 @@
+Registro,Vehiculos,Tipo,Clientes,Precios
+2023-06-01,Toyota Camry,Venta,Cliente A,100000.0
+2023-06-02,Honda Civic,Arriendo,Cliente B,80000.0
+2023-06-03,Chevrolet Spark,Arriendo,Cliente C,60000.0
+2023-06-04,Nissan Sentra,Venta,Cliente D,200000.0
+2023-06-05,Ford Mustang,Venta,Cliente E,300000.0
+2023-06-06,Volkswagen Golf,Venta,Cliente F,150000.0
+2023-06-07,Hyundai Elantra,Adquisición,Proveedor X,180000.0
+2023-06-08,Kia Sportage,Adquisición,Proveedor Y,220000.0
+2023-06-09,Mazda CX-5,Adquisición,Proveedor Z,250000.0
+,,Arriendo,,
+,,Arriendo,,
+,,Arriendo,,

@@ -7,6 +7,5 @@ data = {
 }
 
 df = pd.DataFrame(data)
-df.to_excel('archivo_excel.xlsx', index=False)
-
-
+nombre_archivo = 'name and date.csv'
+df.to_csv(nombre_archivo, index=False)
